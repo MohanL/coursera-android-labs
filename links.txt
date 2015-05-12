@@ -1,0 +1,5 @@
+http://android-developers.blogspot.com/
+https://groups.google.com/forum/#!forum/android-developers
+http://www.meetup.com/DC-Droids/
+http://stackoverflow.com/questions/tagged/android
+http://developer.android.com/index.html
